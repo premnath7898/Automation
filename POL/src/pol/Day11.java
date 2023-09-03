@@ -11,4 +11,9 @@ public class Day11 {
 
 	}
 
+	 public void ma(){
+			System.out.println("TA");
+		}
+
+	 
 }
